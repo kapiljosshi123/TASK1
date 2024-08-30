@@ -51,7 +51,7 @@ Run the Script: Execute the script using Python:
 
 bash
 Copy code
-python your_script_name.py
+python dnb.py
 The script will:
 
 Create a folder named HtmlFiles if it doesn't already exist.
